@@ -12,3 +12,4 @@ Soundtrackr is a music analytics application that connects to a user’s Spotify
 **Containerization:** Docker\
 **Cloud:** Oracle Cloud
 
+

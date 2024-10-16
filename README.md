@@ -5,10 +5,10 @@ Soundtrackr is a music analytics application that connects to a user’s Spotify
 
 # Tech Stack: 
 
-Frontend: React
-Authentication: Firebase Auth
-Backend: GraphQL, Redis, MongoDB
-APIs: Spotify Web API (for retrieving user listening activity)
-Containerization: Docker
-Cloud: Oracle Cloud
+Frontend: React\
+Authentication: Firebase Auth\
+Backend: GraphQL, Redis, MongoDB\
+APIs: Spotify Web API (for retrieving user listening activity)\
+Containerization: Docker\
+Cloud: Oracle Cloud\
 
